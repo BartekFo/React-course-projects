@@ -1,5 +1,5 @@
-# Here you can find some projects that I made during one of React courses that I'm taking
-## I wanted to show that I have some knowledge with React and the best way is of course to show it in practice.
+# Here you can find some projects that I made during one of React courses that I took
+## I wanted to show you that I have some knowledge about React and the best way is of course to show it in practice.
 ## I didn't want to make a mess in my repositories list, so I created this folder to upload projects that I find more interesting.
 ### Project: 
 1. Cocktails website
